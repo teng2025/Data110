@@ -24,6 +24,6 @@
   
 |Turnover|Tigers Jaw|Superheaven|
 |--------|----------|-----------|
-|
-|
-|
+|Scranton, PA| Virginia Beach, VA|Doylestown, PA|
+|2005-Present|2009-Present|2008-2016|
+|Emo, Indie Rock, Pop Punk| Pop Punk, Dream Pop, Indie Rock| Grunge, Alt. Rock, Shoegaze|
