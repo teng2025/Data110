@@ -28,6 +28,10 @@
 |2005-Present|2009-Present|2008-2016|
 |Emo, Indie Rock, Pop Punk| Pop Punk, Dream Pop, Indie Rock| Grunge, Alt. Rock, Shoegaze|
 
-- [ ] Go to bed by 1 AM
+- [x] Go to bed by 1 AM
 - [x] Workout 5x a week
 - [ ] Be cool
+
+Footnote 1[^1].
+
+[^1]: I am not cool.
