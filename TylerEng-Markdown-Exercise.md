@@ -11,19 +11,17 @@
 
 ## **Reasons as to why I'm fond of these bands:**
 - Typically relaxing instrumentals
-- Impressive Vocalists
+- Impressive Vocalists  <img src="https://images.squarespace-cdn.com/content/v1/5ab91f0fe17ba31599313b09/39b35bde-dc23-4c33-b96a-11df9686c5de/run-for-cover-records-logo.jpg" width="250" img align="right"> 
 - Relatable Lyrics
 - Thought-provoking lyrics
 - Intriguing album cover artworks
-
-<img src="https://images.squarespace-cdn.com/content/v1/5ab91f0fe17ba31599313b09/39b35bde-dc23-4c33-b96a-11df9686c5de/run-for-cover-records-logo.jpg" width="250"> 
 
 **[```Runforcover```](https://runforcoverrecords.com/) is the name of the record label and this is a link for further information.**
 
 ## **Basic information of each band:**
 
 |Turnover|Tigers Jaw|Superheaven|
-|--------|----------|-----------|
+|:---:|:---:|:---:|
 |Scranton, PA| Virginia Beach, VA|Doylestown, PA|
 |2005-Present|2009-Present|2008-2016|
 |Emo, Indie Rock, Pop Punk| Pop Punk, Dream Pop, Indie Rock| Grunge, Alt. Rock, Shoegaze|
